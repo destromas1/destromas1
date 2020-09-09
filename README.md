@@ -4,7 +4,7 @@
   <a href="https://twitter.com/destro_mas">Twitter</a> /
   <a href="https://shahjada.me">Website</a>
   <br><br>
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 </p>
 
 <!--
