@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://dev.to/destro_mas">Blog</a> /
   <a href="https://twitter.com/destro_mas">Twitter</a> /
-  <a href="https://shahjada.me">Website</a>
+  <a href="https://youtube.com/c/TheDestroDevShow">YouTube</a>
   <br><br>
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 </p>
