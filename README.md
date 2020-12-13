@@ -1,8 +1,8 @@
 <h3 align="center">👋</h3>
 <p align="center">
-  <a href="https://dev.to/destro_mas">Blog</a> /
-  <a href="https://twitter.com/destro_mas">Twitter</a> /
-  <a href="https://youtube.com/c/TheDestroDevShow">YouTube</a>
+  <a href="https://dev.to/destro_mas" target="_blank">Blog</a> /
+  <a href="https://twitter.com/destro_mas" target="_blank">Twitter</a> /
+  <a href="https://youtube.com/c/TheDestroDevShow" target="_blank">YouTube</a>
   <br><br>
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 </p>
